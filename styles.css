@@ -1,0 +1,16 @@
+.shop {
+    flex-basis: 30%;
+    border: dashed black 1px;
+}
+.list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.pageHeader {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
